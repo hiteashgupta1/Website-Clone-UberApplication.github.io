@@ -51,7 +51,7 @@ header nav ul li a {
 }
 
 .hero {
-    background-image: url('./images/RiderHome.png');
+    background-image: url('./assets/RiderHome.png');
     background-size: cover;
     background-position: center;
     height: 100vh;
